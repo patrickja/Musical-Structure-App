@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBackground"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView style="@style/TitleTheme" />
+
+        <TextView style="@style/DividerThemeOne" />
+
+        <TextView
+            android:id="@+id/groupOne"
+            style="@style/ImageTheme"
+            android:background="@drawable/gingerjake" />
+
+        <TextView style="@style/DividerThemeTwo" />
+
+        <TextView
+            android:id="@+id/groupTwo"
+            style="@style/ImageTheme"
+            android:background="@drawable/semisonic" />
+
+        <TextView style="@style/DividerThemeTwo" />
+
+        <TextView
+            android:id="@+id/groupThree"
+            style="@style/ImageTheme"
+            android:background="@drawable/soulasylum" />
+
+        <TextView style="@style/DividerThemeOne" />
+
+    </LinearLayout>
+</ScrollView>

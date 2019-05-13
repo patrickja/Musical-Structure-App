@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleText">35sp</dimen>
+    <dimen name="buttonMargin">16dp</dimen>
+    <dimen name="buttonHeight">48dp</dimen>
+    <dimen name="buttonWidth">48dp</dimen>
+    <dimen name="dividerHeight">2dp</dimen>
+    <dimen name="dividerwidth">2dp</dimen>
+    <dimen name="dividerMargin">16dp</dimen>
+</resources>

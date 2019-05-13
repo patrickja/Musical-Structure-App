@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minnesota Music</string>
+    <string name="title">Minnesota Music</string>
+    <string name="activity_group_one">Gingerjake</string>
+    <string name="activity_group_two">Semisonic</string>
+    <string name="activity_group_three">Soul Asylum</string>
+</resources>
